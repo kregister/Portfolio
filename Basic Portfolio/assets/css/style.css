@@ -1,0 +1,20 @@
+@import url("reset.css");
+
+body {
+
+	font-size: 18px;
+	line-height: 35px;
+	font-family: 'Merriweather','Nosifer', Times New Roman, serif;
+	color: #777;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+.container {
+	width: 100%;
+	max-width: 960px;
+	margin: 0 auto;
+	clear: both;
+}
