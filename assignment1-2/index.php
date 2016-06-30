@@ -1,1 +1,0 @@
-<?php include_once("kRegiPort v1.1/index.html"); ?>
